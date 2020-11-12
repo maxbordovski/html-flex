@@ -1,0 +1,18 @@
+-30% block
+(color: #75c15b, font-size: 24px, font-weight: 600)
+
+
+font-size: 24px;
+font-family: montserrat,Roboto,Arial,sans-serif
+
+Discover Carribean Islands (color: #000), on hover - color: #75c15b
+$1400 (color: rgba(0,0,0,.2))
+$555 (color: #75c15b)
+
+Last
+Minute (font-size: 45px;)
+
+Offers (font-size: 90px;)
+
+font-size: 24px;
+We have picked some amazing last minute holiday offers for you to choose from. These offers won’t last too long so hurry and book yours today! 
